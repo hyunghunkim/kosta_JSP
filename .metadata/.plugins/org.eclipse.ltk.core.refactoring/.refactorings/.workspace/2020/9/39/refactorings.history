@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;kosat_jsp&apos; to &apos;kosta_jsp&apos;" description="Rename resource &apos;kosat_jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/kosat_jsp" name="kosta_jsp" stamp="1600840017386" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;jsp&apos;" deleteContents="false" description="Delete resource &apos;jsp&apos;" element1="/jsp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1600840024178"/>
-</session>

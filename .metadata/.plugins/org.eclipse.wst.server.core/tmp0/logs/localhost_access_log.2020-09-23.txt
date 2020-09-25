@@ -1,6 +1,0 @@
-127.0.0.1 - - [23/Sep/2020:15:24:44 +0900] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [23/Sep/2020:15:24:46 +0900] "GET /kosta_jsp/bean/insert_form.jsp HTTP/1.1" 200 580
-0:0:0:0:0:0:0:1 - - [23/Sep/2020:15:24:51 +0900] "POST /kosta_jsp/bean/insertAction.jsp HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [23/Sep/2020:15:24:51 +0900] "GET /kosta_jsp/bean/list.jsp HTTP/1.1" 200 1496
-0:0:0:0:0:0:0:1 - - [23/Sep/2020:15:24:56 +0900] "GET /kosta_jsp/bean/detail.jsp?seq=23 HTTP/1.1" 200 610
-0:0:0:0:0:0:0:1 - - [23/Sep/2020:15:24:57 +0900] "GET /kosta_jsp/bean/list.jsp HTTP/1.1" 200 1496
